@@ -30,7 +30,8 @@ Runs the migrations
 sqlx migrate run 
 ```
 Because we already set our DATABASE_URL in root directory, now we have a todos table in todo.db.
-5. Now we're all set for the database-side. To run the API server, simply enter below command.
+
+Now we're all set for the database-side. To run the API server, simply enter below command.
 ```sh
 cargo watch -q -c -w src/ -x run
 ```
