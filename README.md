@@ -1,5 +1,5 @@
 # TekkenProgres
-<h4 align="center">A todo API for learning tekken characters, using sqlite for database </h4>
+<h4 align="center">A todo API server(going to make it multithreaded) for learning tekken characters, using sqlite for database </h4>
 
 ## Guide
 To create our sqlite database, we need to install sqlx-cli
